@@ -2,6 +2,7 @@
 Cursos de "Python" 
 
 <h2>Pagina Web</h2>
-![image](https://github.com/user-attachments/assets/da279187-1e2d-4b87-8275-ecfd50b95fc7)
+![image](https://github.com/user-attachments/assets/eb1cee8e-4f84-4db0-97cb-9cdbb376dba2)
+
 
 
